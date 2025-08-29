@@ -27,7 +27,7 @@ class VAEC(BaseModuleClass):
     n_labels
         Number of labels
     n_hidden
-        Number of nodes per hidden layer
+        Number of nodes per  hidden layer
     n_latent
         Dimensionality of the latent space
     n_layers
